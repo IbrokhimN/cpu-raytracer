@@ -2,3 +2,4 @@
 *.ppm
 output/*
 !output/.gitkeep
+!output/render.png
